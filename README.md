@@ -25,7 +25,7 @@ Führe folgende Schritte zur Installation des Patches aus:
 * Starte `S6UPOG-*.exe` (* = Versionsnummer).
   (Alle älteren Versionen müssen vorher deinstalliert werden!)
 * Wähle das Verzeichnis über dem Installationsverzeichnis des Spiels.
-  (z.B. `C:\Program Files\Ubisoft\DIE SIEDLER - Aufstieg eines Königreichs`)
+  (z.B. `C:\Program Files\Ubisoft`)
 * Starte die Installation und warte auf Abschluss.
 
 ### Deinstallation
@@ -42,7 +42,7 @@ Führe folgende Schritte zur Installation des Patches aus:
 * Starte `S6UPHE-*.exe` (* = Versionsnummer).
   (Achte darauf alle vorherigen Versionen durch deinen Client zu entfernen!)
 * Wähle das Verzeichnis über dem Installationsverzeichnis des Spiels.
-  (z.B. `C:\SteamLibrary\steamapps\common\The Settlers - Rise of an Empire - History Edition`)
+  (z.B. `C:\SteamLibrary\steamapps\common`)
 * Starte die Installation und Warte auf Abschluss.
 
 ### Deinstallation

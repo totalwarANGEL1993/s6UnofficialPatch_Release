@@ -1,3 +1,41 @@
+# Version 0.5.4
+
+## Allgemein
+
+- Die Patch-Version wird im Hauptmenü des Spiels angezeigt
+- Der maximale Zoom wurde erhöht
+- Die Kathedrale hat im Selektionsfenster den richtigen Namen
+- Salz und Farbe werden zu NPC-Lagerhäusern hinzugefügt
+- NPC-ME-Barracken können nun Truppen generieren
+- Lieferungen werden auch auf dem Markt und in der Burg erkannt
+- Fehler bei der Kostenermittlung von IOs wird behoben
+- Fix für `Objective.DestroyAllPlayerUnits`
+- Produktionsmenü erkennt Gebäude anderer Klimazonen
+- Fähigkeitsinfo wird nicht angezeigt ohne eine Stadt
+- Gelöschte Lagerfeuer von Banditen lösen keine Abstürze mehr aus
+- Keine Nachricht bei Veränderung der Spielgeschwindigkeit mehr
+- Special Edition Ziergebäude sind im Baumenü verfügbar
+- Eine Option für automatische Speicherung wird hinzugefügt
+  (Automatische Speicherung ist initial deaktiviert)
+- Entertainer können nicht mehr angeklickt werden (Absturzprävention)
+- Söldner können an Kasernen aufgefüllt werden
+- Passive Fähigkeiten nicht spielbarer Helden deaktiviert
+- Es sollte nicht mehr zur einem Meldungsstau kommen
+- Zäune zeigen keine Bauoptionen mehr an
+
+## Original Version
+
+- Large Adress Aware Flag wird gesetzt
+- Fehlerhafte Erkennung von Grafikkarten wird behoben
+- Windows 11 fix
+- Gelöschte Lagerfeuer von Banditen lösen keine Abstürze mehr aus
+
+## History Edition
+
+- Unterstützung für den Lua Debugger Version 0.5.7 und 0.6.4
+  (Der Lua Debugger startet das Spiel auf Englisch. Es ist __dann__ auch nicht 
+   möglich im Multiplayer zu spielen.)
+
 # Version 0.5.3
 
 ## Allgemein

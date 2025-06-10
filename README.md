@@ -49,3 +49,20 @@ Führe folgende Schritte zur Installation des Patches aus:
 
 Um den Patch zu deinstallieren, kannst du einfach in Steam oder Ubisoft Connect
 die Spieldateien zurücksetzen.
+
+### Lua Debugger
+
+Dieser Abschnitt ist nur für Mapper interessant.
+
+Der Patch ermöglicht es die History Edition über den LuaDebugger zu Starten. 
+Dabei wird die History Edition __nur für diese Sitzung__ in das Original 
+umgewandelt. Das Spiel ist dann auf Englisch und es kann nicht im Multiplayer
+gespielt werden.
+
+Um den Lua Debugger in der History Edition zu nutzen, muss das Data-Verzeichnis
+ausgewählt werden, anstatt des Spielverzeichnis.
+
+Beispiel: `C:\SteamLibrary\steamapps\common\The Settlers - Rise of an Empire - History Edition\Data`
+
+Dann kann das Spiel ganz normal über den konventionellen Lua Debugger 
+gestartet werden.
